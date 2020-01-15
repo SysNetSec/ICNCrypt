@@ -1,0 +1,6 @@
+*.o
+huffman
+huffman_debug
+key.bin
+pmf.bin
+*.png
